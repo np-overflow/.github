@@ -16,9 +16,9 @@ We're a community of tech enthusiasts and like-minded individuals who share a pa
 Explore our GitHub repository, where we openly share the source code for our projects and workshop materials. It's a treasure trove of knowledge, and we invite you to check it out!
 
 **📷 Instagram:**<br/>
-Stay up-to-date with our activities by following us on Instagram 📸 Instagram. We regularly post captivating visuals and behind-the-scenes moments that showcase our tech journey.
+Stay up-to-date with our activities by following us on [📸 Instagram](https://instagram.com/npoverflow). We regularly post captivating visuals and behind-the-scenes moments that showcase our tech journey.
 
 **📩 Have Questions or Want to Connect?**</br>
-If you have any questions, want to learn more about our group, or are interested in collaborating, don't hesitate to reach out to us! Send us an email at send us an email, and we'll be more than happy to assist you.
+If you have any questions, want to learn more about our group, or are interested in collaborating, don't hesitate to [reach out to us](mailto:hello@np-overflow.club)! Send us an email at send us an email, and we'll be more than happy to assist you.
 
 Join us on this exciting tech adventure, and let's explore the future together! 🚀🔧💻
